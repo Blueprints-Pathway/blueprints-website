@@ -21,7 +21,7 @@ export const HeroContent = styled.div`
 background-image:linear-gradient(0deg,rgba(22, 21, 21, 0.6) 0%,rgba(22, 21, 21, 0.6) 50%,rgba(22, 21, 21, 0.6) 100%),url(${Background});
 
 
-background-size:contain;
+background-size:cover;
 background-repeat:no-repeat;
 background-positon:center;
 

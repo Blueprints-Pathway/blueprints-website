@@ -25,7 +25,7 @@ justify-content:center;
 align-items:center;
 color: #105899;
 background:white;
-font-size:35px;
+font-size:30px;
 cursor:pointer;
 
 `
