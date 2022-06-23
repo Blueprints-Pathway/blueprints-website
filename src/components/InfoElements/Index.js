@@ -8,6 +8,9 @@ const InfoSection = () => {
             <InfoRow>
                <Column1>
                <TextWrapper>
+                <Text>
+                  
+                </Text>
                  
                </TextWrapper>
                </Column1>
