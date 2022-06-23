@@ -48,6 +48,7 @@ width: 88px;
 height: 88px;
 left: 15px;
 top: 24px;
+cursor:pointer;
 `
 export const ImageMenuu = styled.img`
 position: absolute;
